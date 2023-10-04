@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Pharwishverse](https://nikit88nline.wordpress.com)
 
-- 🌱 I’m currently learning **github, python, figma, angular**
+- 🌱 I’m currently learning **github, python, figma, Unity**
 
 - 👯 I’m looking to collaborate on [Oniria](https://nikit88nline.wordpress.com/category/lugares/)
 
